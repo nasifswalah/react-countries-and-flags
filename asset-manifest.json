@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-countries-and-flags/static/css/main.33ec4037.css",
+    "main.js": "/react-countries-and-flags/static/js/main.959a955d.js",
+    "static/js/592.f56d2f65.chunk.js": "/react-countries-and-flags/static/js/592.f56d2f65.chunk.js",
+    "index.html": "/react-countries-and-flags/index.html",
+    "main.33ec4037.css.map": "/react-countries-and-flags/static/css/main.33ec4037.css.map",
+    "main.959a955d.js.map": "/react-countries-and-flags/static/js/main.959a955d.js.map",
+    "592.f56d2f65.chunk.js.map": "/react-countries-and-flags/static/js/592.f56d2f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ec4037.css",
+    "static/js/main.959a955d.js"
+  ]
+}
